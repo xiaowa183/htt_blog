@@ -44,8 +44,8 @@ http://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=400276397&idx=1&sn=ea044079
 ###http、tcp、udp
 1.TCP协议中的三次握手和四次挥手(图解)<br/>
 http://blog.csdn.net/whuslei/article/details/6667471 <br/> 
-2.(推荐)http状态码304的理解(max-age和304到底有什么作用)<br/>  
-http://my.oschina.net/u/2428791/blog/506220  <br/> 
+2.(推荐)http状态码304的理解(max-age和304到底有什么作用) <br/> 
+http://my.oschina.net/u/2428791/blog/506220 <br/> 
 
 
 
